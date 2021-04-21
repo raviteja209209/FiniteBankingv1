@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="finteBankingv1" duration-ms="32842" started-at="2021-04-21T02:24:07Z" finished-at="2021-04-21T02:24:40Z">
+    <groups>
+    </groups>
+    <test name="Banking App Test" duration-ms="32842" started-at="2021-04-21T02:24:07Z" finished-at="2021-04-21T02:24:40Z">
+      <class name="com.finitebanking.testcases.AddCustmer003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.finitebanking.testcases.AddCustmer003@1ee807c6]" name="setup" is-config="true" duration-ms="13278" started-at="2021-04-21T02:24:08Z" finished-at="2021-04-21T02:24:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.finitebanking.testcases.AddCustmer003@1ee807c6]" name="addNewCustomer" duration-ms="18168" started-at="2021-04-21T02:24:21Z" finished-at="2021-04-21T02:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.finitebanking.testcases.AddCustmer003@1ee807c6]" name="teardown" is-config="true" duration-ms="833" started-at="2021-04-21T02:24:39Z" finished-at="2021-04-21T02:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.finitebanking.testcases.AddCustmer003 -->
+    </test> <!-- Banking App Test -->
+  </suite> <!-- finteBankingv1 -->
+</testng-results>

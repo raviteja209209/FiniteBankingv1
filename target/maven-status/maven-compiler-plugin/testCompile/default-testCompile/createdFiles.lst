@@ -1,0 +1,9 @@
+com\finitebanking\testcases\AddCustmer003.class
+com\finitebanking\testcases\BaseClass.class
+com\finitebanking\pageobjects\AddCustomer.class
+com\finitebanking\pageobjects\LoginPage.class
+com\finitebanking\testcases\TC_DemologinDDT.class
+com\finitebaking\utilites\ReadConfig.class
+com\finitebaking\utilites\Reporting.class
+com\finitebanking\testcases\Logintest001.class
+com\finitebaking\utilites\XLUtils.class

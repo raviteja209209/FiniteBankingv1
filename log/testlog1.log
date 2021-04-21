@@ -1,0 +1,99 @@
+2021-04-15 17:00:45,854 [main] INFO finitebanking - URL opened
+2021-04-15 17:00:48,255 [main] INFO finitebanking - username entered
+2021-04-15 17:00:48,376 [main] INFO finitebanking - password entered
+2021-04-15 17:00:51,224 [main] INFO finitebanking - test passed
+2021-04-16 14:23:37,100 [main] INFO finitebanking - URL opened
+2021-04-16 14:23:38,400 [main] INFO finitebanking - username entered
+2021-04-16 14:23:38,526 [main] INFO finitebanking - password entered
+2021-04-16 14:34:35,797 [main] INFO finitebanking - URL opened
+2021-04-16 14:34:37,569 [main] INFO finitebanking - username entered
+2021-04-16 14:34:37,796 [main] INFO finitebanking - password entered
+2021-04-16 14:38:36,034 [main] INFO finitebanking - URL opened
+2021-04-16 14:38:36,390 [main] INFO finitebanking - username entered
+2021-04-16 14:38:36,556 [main] INFO finitebanking - password entered
+2021-04-16 17:18:18,548 [main] INFO finitebanking - user name provided
+2021-04-16 17:18:19,263 [main] INFO finitebanking - password provided
+2021-04-16 17:18:29,560 [main] INFO finitebanking - user name provided
+2021-04-16 17:18:29,704 [main] INFO finitebanking - password provided
+2021-04-16 17:18:38,977 [main] INFO finitebanking - user name provided
+2021-04-16 17:18:39,125 [main] INFO finitebanking - password provided
+2021-04-16 17:18:48,031 [main] INFO finitebanking - user name provided
+2021-04-16 17:18:48,277 [main] INFO finitebanking - password provided
+2021-04-16 17:18:56,309 [main] INFO finitebanking - user name provided
+2021-04-16 17:18:56,459 [main] INFO finitebanking - password provided
+2021-04-16 18:13:14,698 [main] INFO finitebanking - user name provided
+2021-04-16 18:13:15,014 [main] INFO finitebanking - password provided
+2021-04-16 18:13:24,378 [main] INFO finitebanking - user name provided
+2021-04-16 18:13:24,521 [main] INFO finitebanking - password provided
+2021-04-16 18:13:33,235 [main] INFO finitebanking - user name provided
+2021-04-16 18:13:33,356 [main] INFO finitebanking - password provided
+2021-04-16 18:13:40,767 [main] INFO finitebanking - user name provided
+2021-04-16 18:13:40,872 [main] INFO finitebanking - password provided
+2021-04-16 18:13:46,992 [main] INFO finitebanking - user name provided
+2021-04-16 18:13:47,099 [main] INFO finitebanking - password provided
+2021-04-16 18:18:13,526 [main] INFO finitebanking - user name provided
+2021-04-16 18:18:13,780 [main] INFO finitebanking - password provided
+2021-04-16 18:18:22,452 [main] INFO finitebanking - user name provided
+2021-04-16 18:18:22,611 [main] INFO finitebanking - password provided
+2021-04-16 18:18:30,017 [main] INFO finitebanking - user name provided
+2021-04-16 18:18:30,123 [main] INFO finitebanking - password provided
+2021-04-16 18:18:41,712 [main] INFO finitebanking - user name provided
+2021-04-16 18:18:41,819 [main] INFO finitebanking - password provided
+2021-04-16 18:18:49,815 [main] INFO finitebanking - user name provided
+2021-04-16 18:18:49,938 [main] INFO finitebanking - password provided
+2021-04-17 16:40:46,012 [main] INFO finitebanking - user name provided
+2021-04-17 16:40:46,526 [main] INFO finitebanking - password provided
+2021-04-17 16:41:05,529 [main] INFO finitebanking - Login passed
+2021-04-17 17:36:46,886 [main] INFO finitebanking - user name provided
+2021-04-17 17:36:47,606 [main] INFO finitebanking - password provided
+2021-04-17 17:36:57,420 [main] INFO finitebanking - Login passed
+2021-04-17 17:52:10,153 [main] INFO finitebanking - user name provided
+2021-04-17 17:52:10,393 [main] INFO finitebanking - password provided
+2021-04-17 17:52:19,801 [main] INFO finitebanking - Login passed
+2021-04-17 18:02:32,893 [main] INFO finitebanking - user name provided
+2021-04-17 18:02:33,406 [main] INFO finitebanking - password provided
+2021-04-17 18:02:48,823 [main] INFO finitebanking - Login passed
+2021-04-17 18:04:33,729 [main] INFO finitebanking - user name provided
+2021-04-17 18:04:34,056 [main] INFO finitebanking - password provided
+2021-04-17 18:04:59,879 [main] INFO finitebanking - Login passed
+2021-04-17 18:10:42,521 [main] INFO finitebanking - user name provided
+2021-04-17 18:10:42,801 [main] INFO finitebanking - password provided
+2021-04-17 18:11:01,850 [main] INFO finitebanking - Login passed
+2021-04-17 18:11:25,188 [main] INFO finitebanking - user name provided
+2021-04-17 18:11:25,324 [main] INFO finitebanking - password provided
+2021-04-17 18:11:29,571 [main] INFO finitebanking - Login passed
+2021-04-17 18:22:19,849 [main] INFO finitebanking - User name is provided
+2021-04-17 18:22:20,092 [main] INFO finitebanking - Passsword is provided
+2021-04-17 18:23:43,671 [main] INFO finitebanking - User name is provided
+2021-04-17 18:23:43,916 [main] INFO finitebanking - Passsword is provided
+2021-04-17 22:35:16,729 [main] INFO finitebanking - user name provided
+2021-04-17 22:35:17,192 [main] INFO finitebanking - password provided
+2021-04-17 22:35:34,347 [main] INFO finitebanking - Login passed
+2021-04-17 22:38:18,811 [main] INFO finitebanking - User name is provided
+2021-04-17 22:38:19,093 [main] INFO finitebanking - Passsword is provided
+2021-04-17 22:38:28,979 [main] INFO finitebanking - providing customer details....
+2021-04-17 22:40:27,999 [main] INFO finitebanking - URL opened
+2021-04-17 22:40:28,847 [main] INFO finitebanking - username entered
+2021-04-17 22:40:29,115 [main] INFO finitebanking - password entered
+2021-04-17 22:45:02,454 [main] INFO finitebanking - User name is provided
+2021-04-17 22:45:02,927 [main] INFO finitebanking - Passsword is provided
+2021-04-20 14:54:21,631 [main] INFO finitebanking - User name is provided
+2021-04-20 14:54:22,059 [main] INFO finitebanking - Passsword is provided
+2021-04-20 14:54:30,740 [main] INFO finitebanking - providing customer details....
+2021-04-20 14:54:43,567 [main] INFO finitebanking - validation started....
+2021-04-20 14:54:43,803 [main] INFO finitebanking - test case passed....
+2021-04-20 15:27:20,714 [main] INFO finitebanking - User name is provided
+2021-04-20 15:27:21,008 [main] INFO finitebanking - Passsword is provided
+2021-04-20 15:28:49,819 [main] INFO finitebanking - providing customer details....
+2021-04-20 15:28:59,369 [main] INFO finitebanking - validation started....
+2021-04-20 15:28:59,512 [main] INFO finitebanking - test case failed....
+2021-04-20 15:38:16,905 [main] INFO finitebanking - User name is provided
+2021-04-20 15:38:17,057 [main] INFO finitebanking - Passsword is provided
+2021-04-20 15:38:23,723 [main] INFO finitebanking - providing customer details....
+2021-04-20 15:38:35,509 [main] INFO finitebanking - validation started....
+2021-04-20 15:38:35,562 [main] INFO finitebanking - test case passed....
+2021-04-21 07:54:22,433 [main] INFO finitebanking - User name is provided
+2021-04-21 07:54:22,688 [main] INFO finitebanking - Passsword is provided
+2021-04-21 07:54:28,799 [main] INFO finitebanking - providing customer details....
+2021-04-21 07:54:39,602 [main] INFO finitebanking - validation started....
+2021-04-21 07:54:39,633 [main] INFO finitebanking - test case passed....
