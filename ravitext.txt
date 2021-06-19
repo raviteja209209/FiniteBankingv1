@@ -1,0 +1,22 @@
+LoginPage lp=new LoginPage(driver);
+		lp.setusername(user);
+		logger.info("user name provided");
+		lp.setpassword(pwd);
+		logger.info("password provided");
+		lp.clickSubmit();
+		
+		Thread.sleep(3000);LoginPage lp=new LoginPage(driver);
+		lp.setusername(user);
+		logger.info("user name provided");
+		lp.setpassword(pwd);
+		logger.info("password provided");
+		lp.clickSubmit();
+		
+		Thread.sleep(3000);LoginPage lp=new LoginPage(driver);
+		lp.setusername(user);
+		logger.info("user name provided");
+		lp.setpassword(pwd);
+		logger.info("password provided");
+		lp.clickSubmit();
+		
+		Thread.sleep(3000);
