@@ -7,13 +7,13 @@
   <test thread-count="5" name="Banking App Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.finitebanking.testcases.AddCustmer003">
+      <class name="com.finitebanking.testcases.Logintest001">
         <methods>
-          <include name="addNewCustomer"/>
+          <include name="loginTest"/>
           <include name="setup"/>
           <include name="teardown"/>
         </methods>
-      </class> <!-- com.finitebanking.testcases.AddCustmer003 -->
+      </class> <!-- com.finitebanking.testcases.Logintest001 -->
     </classes>
   </test> <!-- Banking App Test(failed) -->
 </suite> <!-- Failed suite [finteBankingv1] -->

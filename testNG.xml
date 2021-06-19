@@ -12,9 +12,7 @@
  
     <classes>
      
-       <class name="com.finitebanking.testcases.AddCustmer003" />
-       
-       
+       <class name="com.finitebanking.testcases.Logintest001" />
     </classes>
   </test>
 </suite>

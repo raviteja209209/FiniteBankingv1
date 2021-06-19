@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.finitebanking.testcases.TC_DemologinDDT">
+      <class name="com.finitebanking.testcases.Logintest001">
         <methods>
-          <include name="loginDDT"/>
+          <include name="loginTest"/>
           <include name="setup"/>
           <include name="teardown"/>
         </methods>
-      </class> <!-- com.finitebanking.testcases.TC_DemologinDDT -->
+      </class> <!-- com.finitebanking.testcases.Logintest001 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
